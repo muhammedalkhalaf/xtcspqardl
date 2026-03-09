@@ -7,10 +7,7 @@ Authors@R: c(
     person("Muhammad", "Alkhalaf", 
            email = "muhammedalkhalaf@gmail.com",
            role = c("aut", "cre", "cph"),
-           comment = c(ORCID = "0009-0002-2677-9246")),
-    person("Merwan", "Roudane",
-           role = "ctb",
-           comment = "Original Stata implementation"))
+           comment = c(ORCID = "0009-0002-2677-9246")))
 Description: Implements the Cross-Sectionally Augmented Panel Quantile 
     Autoregressive Distributed Lag (CS-PQARDL) model and the Quantile 
     Common Correlated Effects Mean Group (QCCEMG) estimator for panel data 

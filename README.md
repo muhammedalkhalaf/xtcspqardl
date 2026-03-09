@@ -123,8 +123,6 @@ $$p_T = \lfloor T^{1/3} \rfloor$$
 
 ## Author
 
-**Merwan Roudane** - merwanroudane920@gmail.com
-
 ## License
 
 GPL (>= 3)
